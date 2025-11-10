@@ -52,5 +52,76 @@
       { "name": "Bisexual" },
       { "name": "Lesbian" }
     ]
+  },
+  {
+    "type": "Age",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Ethnicity",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Body",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  }, 
+  {
+    "type": "Hair",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Number of people",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Sex Toys",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Apparel",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Scenario",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Location",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
+  },
+  {
+    "type": "Others",
+    "list": [
+      { "name": "Bisexual" },
+      { "name": "Lesbian" }
+    ]
   }
 ]
+   
